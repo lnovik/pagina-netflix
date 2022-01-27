@@ -28,7 +28,7 @@ Este projeto foi criado para simular a página inicial da Netflix
 
 <h2 align="center">
   <a href="https://lnovik.github.io/pagina-netflix">Acesse o site aqui</a>
-</h2>
+ </h2>
 
 
 
